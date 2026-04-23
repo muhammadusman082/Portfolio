@@ -123,7 +123,7 @@ Your live link: `https://muhammadusman082.github.io/portfolio`
 ## 📞 Contact
 
 **Muhammad Usman**  
-📧 Email: muhammadusman082@gmail.com  
+📧 Email:  usmanbhi421@gmail.com  
 🐙 GitHub: [@muhammadusman082](https://github.com/muhammadusman082)  
 💼 LinkedIn: [muhammad-usman-8455b6293](https://www.linkedin.com/in/muhammad-usman-8455b6293/)
 
