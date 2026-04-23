@@ -24,7 +24,7 @@ It showcases my skills, projects, and contact information in a fully responsive,
 
 ## 🔴 Live Demo
 
-🌍 **[View Live Portfolio →](https://muhammadusman082.github.io/portfolio)**
+🌍 **[View Live Portfolio →](https://muhammadusman082.github.io/Portfolio/)**
 
 ---
 
